@@ -8,7 +8,7 @@
 - I am currently preparinh for the neoGcamp Admission Interview.
 
 ## What I have been doing?
-- Making neogCamp Assignments
+- Completing neogCamp Assignments
 - Learning HTML,CSS and Javascript
 
 ### Trust me mastering a technology is not at all easy. I am just trying to get better at some.
