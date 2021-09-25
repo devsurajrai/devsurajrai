@@ -1,6 +1,7 @@
 
 <h1 align="center"> Hi there 👋</h>
 <h1 align="center">I am Suraj Rai 👦</h><br><br>
+<h1 align="center"><a href="https://suraj-rai-portfolio.netlify.app">My Portfolio</a></h><br><br>
 
 <p>I am not a CS degree holder beacuse not everyone can afford one.</p>
 
@@ -10,6 +11,7 @@
 ## What I have been doing?
 - Completing neogCamp Assignments
 - Learning HTML,CSS and Javascript
+
 
 ### Trust me mastering a technology is not at all easy. I am just trying to get better at some.
 
