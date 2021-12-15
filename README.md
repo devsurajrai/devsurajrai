@@ -6,9 +6,10 @@
 <p>I am not a CS degree holder beacuse not everyone can afford one.</p>
 
 ## What am I doing?
-- I am currently preparing for the neoGcamp Admission Interview.
+- Building Clones
 
 ## What I have been doing?
+- I am currently preparing for the neoGcamp Admission Interview.
 - Completing neogCamp Assignments
 - Learning HTML,CSS and Javascript
 
