@@ -9,7 +9,7 @@
 - Building Clones
 
 ## What I have been doing?
-- I am currently preparing for the neoGcamp Admission Interview.
+- Preparing for the neoGcamp Admission Interview.
 - Completing neogCamp Assignments
 - Learning HTML,CSS and Javascript
 
