@@ -7,6 +7,7 @@
 <p>I am not a CS degree holder beacuse not everyone can afford one.</p>
 
 ## What am I doing?
+- Building React Apps
 - Getting to know CSS Better
 ## What I have been doing?
 - Building Clones
